@@ -26,8 +26,8 @@
     
 <div>
   <a href="https://github.com/AleMFS">
-  <img width='50%' height="auto" src="https://github-readme-stats.vercel.app/api?username=AleMFS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width='48%' height="167px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleMFS&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width='50%' height="auto" src="https://github-readme-stats.vercel.app/api?username=AleMFS&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img width='48%' height="167px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleMFS&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ### <h2> Para mais informações Clique no link ao lado : <a href="https://www.linkedin.com/in/alexandremfs/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
