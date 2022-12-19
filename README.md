@@ -22,7 +22,7 @@
 <img aling="center" alt= "ReactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img aling="center" alt= "Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 
-
+<hr>
     
 <div>
   <a href="https://github.com/AleMFS">
