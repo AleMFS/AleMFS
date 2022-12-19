@@ -26,7 +26,7 @@
     
 <div>
   <a href="https://github.com/AleMFS">
-  <img width='50%' height="auto" src="https://github-readme-stats.vercel.app/api?username=AleMFS&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img width='50%' height="auto" src="https://github-readme-stats.vercel.app/api?username=AleMFS&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/>
   <img width='48%' height="167px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleMFS&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
