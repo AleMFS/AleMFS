@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">•  🖥️ Desenvolvedor Web Front-end<br>•  🎓 Cursando Análise e Desenvolvimento de Sistemas<br>•  ✨ Estudando Inglês</h3>
+<h3 align="left">•  🖥️ Desenvolvedor Full Stack Java / React <br>•  🎓 Cursando Análise e Desenvolvimento de Sistemas<br>•  ✨ Estudando Inglês</h3>
 
 ###
  <hr>
