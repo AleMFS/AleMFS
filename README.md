@@ -12,6 +12,7 @@
 [<img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [<img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/pt/)
+[<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=vue"/>](https://pt-br.react.dev)
 [<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
 [<img height="48px" width="48px" alt="Icone NextJs" src="https://skillicons.dev/icons?i=nextjs"/>](https://nextjs.org/)
 [<img height="48px" width="48px" alt="Icone Angular" src="https://skillicons.dev/icons?i=angular"/>](https://angular.io/)
