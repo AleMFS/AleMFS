@@ -1,26 +1,45 @@
-<h1 align="left">Olá! Seja bem vindo(a) !</h2>
 
-###
+### Meu nome é Alexandre Santos e seja muito bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-<h3 align="left">Me chamo Alexandre Santos, tenho 28 anos e sou de Salvador - BA</h3>
-
-###
-
-<h3 align="left">•  🖥️ Desenvolvedor Full Stack Java / React <br>•  🎓 Cursando Análise e Desenvolvimento de Sistemas<br>•  ✨ Estudando Inglês</h3>
+<h3 align="left">•  🖥️ Desenvolvedor Full Stack Java / React <br>•  🎓 Formado em Análise e Desenvolvimento de Sistemas<br>•  ✨ Estudante Inglês</h3>
 
 ###
  <hr>
 <h3 align="left">⚙️ Ferramentas que uso: </h3> 
 
-###
-<div style="display: inline_block"><br>
-<img aling="center" alt "Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img aling="center" alt= "Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img aling="center" alt= "CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img aling="center" alt= "JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img aling="center" alt= "TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img aling="center" alt= "React " src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img aling="center" alt= "Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+#### Tecnologias que trabalho:
+[<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[<img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[<img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/pt/)
+[<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
+[<img height="48px" width="48px" alt="Icone NextJs" src="https://skillicons.dev/icons?i=nextjs"/>](https://nextjs.org/)
+[<img height="48px" width="48px" alt="Icone Angular" src="https://skillicons.dev/icons?i=angular"/>](https://angular.io/)
+[<img height="48px" width="48px" alt="Icone Styled-Components" src="https://skillicons.dev/icons?i=styledcomponents"/>](https://styled-components.com/)
+[<img height="48px" width="48px" alt="Icone Tailwind" src="https://skillicons.dev/icons?i=tailwind"/>](https://tailwindcss.com/)
+[<img height="48px" width="48px" alt="Icone MaterialUI" src="https://skillicons.dev/icons?i=materialui"/>](https://mui.com/material-ui/)
+[<img height="48px" width="48px" alt="Icone React Native" src="https://skillicons.dev/icons?i=react"/>](https://reactnative.dev/)
+[<img height="48px" width="48px" alt="Icone Java" src="https://skillicons.dev/icons?i=java"/>](https://www.java.com/pt-BR/)
+[<img height="48px" width="48px" alt="Icone Spring Boot" src="https://skillicons.dev/icons?i=spring"/>](https://spring.io/projects/spring-boot)
+[<img height="48px" width="48px" alt="Icone MySQL" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
+[<img height="48px" width="48px" alt="Icone SQLite" src="https://skillicons.dev/icons?i=sqlite"/>](https://www.sqlite.org/index.html)
+
+
+#### Ferramentas que utilizo:
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
+[<img height="48px" width="48px" alt="Icone Intellij" src="https://seeklogo.com/images/J/jetbrains-intellij-idea-logo-CA1D5DC51F-seeklogo.com.png"/>](https://www.jetbrains.com/pt-br/idea/)
+[<img height="48px" width="48px" alt="Icone Postman" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>](https://www.postman.com)
+[<img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
+[<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
+[<img height="48px" width="48px" alt="Icone Vite" src="https://skillicons.dev/icons?i=vite"/>](https://vitejs.dev/)
+[<img height="48px" width="48px" alt="Icone Figma" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com)
+
+##
+
+#### Como entrar em contato comigo:
+[<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/alexandremfs/)
+[<img alt="Mail do Icloud Apple" src="https://img.shields.io/badge/email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black"/>](Alexandre_mfs@outlook.com)
+
 
 <hr>
     
@@ -29,6 +48,4 @@
   <img width='50%' height="auto" src="https://github-readme-stats.vercel.app/api?username=AleMFS&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/>
   <img width='48%' height="167px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleMFS&layout=compact&langs_count=7&theme=radical"/>
 </div>
-
-### <h2> Para mais informações Clique no link ao lado : <a href="https://www.linkedin.com/in/alexandremfs/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 
